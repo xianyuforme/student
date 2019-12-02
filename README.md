@@ -11,9 +11,10 @@
 
 #JAVA
 --------------------------------
-实验过程:1、首先创建窗体public class ManagerFrame extends JFrame {·····}
-        
-        2、创建选课画布public class CoursePanel extends JPanel {·····}
+实验过程:
+
+	1、创建窗体类public class ManagerFrame extends JFrame {·····}
+        2、创建面板容器public class CoursePanel extends JPanel {·····}
                   创建对象JTable，JButton，CardLayout，JTextField，JPanel，JComboBox，JLabel
                   创建主功能区监听器
                            刷新监听、选课监听、退课监听
