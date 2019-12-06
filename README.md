@@ -91,7 +91,7 @@
 
 实验流程图
 ----------------------
-![image]()
+![image](https://github.com/xianyuforme/student/blob/master/images/ff07cc3e41762498380b0be38dcfc07.png)
 
 运行结果图
 ------------------
