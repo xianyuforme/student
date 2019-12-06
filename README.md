@@ -107,8 +107,15 @@
 ![image](https://github.com/xianyuforme/student/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191206160500.png)
 ------------------
 删除选中课程
-![image]
+![image](https://github.com/xianyuforme/student/blob/master/images/c9d3dbfa6b1e30a0b045e456ec2c8bf.png)
+![image](https://github.com/xianyuforme/student/blob/master/images/bb0c818a9674063a9b788d63e9a7b93.png)
+删除完成
+![image](https://github.com/xianyuforme/student/blob/master/images/08a0e97a403180d97f5c05b66385713.png)
+-------------------
+确认选课完成后打印
+![image](https://github.com/xianyuforme/student/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191206160504.png)
 
+-------------------
 实验感想
 本次试验是一次综合的实验，结合了前几次的实验一起，对于基础不牢靠的自己来说也是一个很大的挑战。这一次的实验用到了之前弄过的学生类和GUI还有打印的功能，我是通过询问同学和寻找网上的代码，两者结合才写出来，这次实验的完成也让自己感受到了代码的趣味性，程序运行成功后内心也有很大的成就感，尽管这学期的JAVA课程已经结束了，但在接下来的日子还是会继续学习，提升自己的能力。
                                     
